@@ -26,12 +26,10 @@ SECRET_KEY = 'django-insecure-jxf1h08ki#+#y+msw*k=zuu&#g-k%p$qedw=ue+wp(bptx)jeg
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "finapp1-12ww.onrender.com",
+    "finance-0o2o.onrender.com",
     "localhost",
     "127.0.0.1"
 ]
-
-
 
 # Application definition
 
@@ -127,3 +125,4 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
